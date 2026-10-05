@@ -26,4 +26,4 @@ Example
 **Screenshot:** (attached)
 **What I saw:** Line starts with a stray "@"
 **Reproducible?** Yes
-**Setup:** DuckStation 0.1-xxxx, new game, beta 1, SHA-1 matched
+**Setup:** DuckStation 0.1-xxxx, new game, v0.2-beta, SHA-1 matched
