@@ -1,5 +1,7 @@
 # Super Hero Sakusen — English Translation Patch (Beta)
 
+💬 **Discord** (testing, bug reports, discussion): https://discord.gg/eaNH8qJfVh
+
 English patch for **Super Hero Sakusen** (スーパーヒーロー作戦, Banpresto, PlayStation, 1998).
 This is a **beta**. Testers and proofreaders are very welcome!
 
