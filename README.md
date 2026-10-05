@@ -22,7 +22,7 @@ This is a **beta**. Testers and proofreaders are very welcome!
 - Your own dump of the game: **Track 1 only** (the `.bin` of the data track)
   - Expected SHA-1 of the original Track 1: `2149a9315bb4cd3786b17bc7974f145243f1b853`
   - Size: 682,040,016 bytes
-- `SHS_English_v0.2-beta.xdelta`
+- `SHS_English_v0.3-beta.xdelta`
 - xdelta patcher: **xdeltaUI** (or `xdelta3`)
 - Tracks 2–4 (audio) and your `.cue` file stay as they are
 
@@ -31,7 +31,7 @@ This is a **beta**. Testers and proofreaders are very welcome!
 ## How to patch
 1. Make a **copy** of your Track 1 `.bin` (never patch your only copy).
 2. Open xdeltaUI → Patch → select the xdelta file as *Patch*, your copy as *Source File*, and choose an output name.
-3. Click *Patch*. Check the output's SHA-1: `91c76bd63578d2da1337aa682c185ed5605d64a3`
+3. Click *Patch*. Check the output's SHA-1: `fa522cb8d5d5ac4b2739215865223dc60cb9f9e8`
 4. Edit your `.cue` so the Track 1 `FILE` line points to the patched `.bin`. Keep the Track 2–4 lines as they are.
 5. Load the `.cue` in DuckStation (or another accurate emulator) and start a **NEW game**.
 
