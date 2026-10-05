@@ -1,3 +1,6 @@
+**Where to report:** GitHub Issues (confirmed bugs) or #bug_report on Discord: https://discord.gg/eaNH8qJfVh
+One bug per report, with a screenshot.
+
 **Type:** Bug / Mistranslation / Typo / Other
 
 **Where:** (chapter or stage, scene, battle or menu)
