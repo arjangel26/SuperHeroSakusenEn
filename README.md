@@ -3,6 +3,8 @@
 English patch for **Super Hero Sakusen** (スーパーヒーロー作戦, Banpresto, PlayStation, 1998).
 This is a **beta**. Testers and proofreaders are very welcome!
 
+> **Heads-up: the script is AI-assisted.** The translation was produced with AI (Claude) and driven by a human project lead who chose the terminology and tested the build. It follows established English names from the source franchises and Super Robot Wars. It has not had a full human proofread yet, so expect rough lines, wrong nuances and the occasional mistake. Native or fluent Japanese speakers who want to review or correct lines are very welcome. Corrections get applied directly.
+
 ## What's translated
 - Full story script and event dialogue
 - Battle dialogue, battle menu, attack/weapon names, battle messages (EXP, level-up, etc.)
@@ -43,5 +45,5 @@ Please use the report template (`BUG_REPORT_TEMPLATE.md`) and post screenshots.
 Useful reports: garbled/stray characters, freezes, text cut off or overflowing, wrong names, mistranslations, typos.
 
 ## Credits
-Translation, reverse engineering and tools: Arjay (with AI assistance).
+Project lead, terminology and testing: the project maintainer. Translation, reverse engineering and tools: AI-assisted (Claude).
 Original game © Banpresto / Bandai Namco. This is an unofficial fan translation, not for sale.
