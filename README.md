@@ -36,4 +36,25 @@ This is a **beta**. Testers and proofreaders are very welcome!
 **No game data is included. Please don't ask for or share ROMs/ISOs.**
 
 ## How to patch
-1. Make
+1. Make a **copy** of your Track 1 `.bin` (never patch your only copy).
+2. Open xdeltaUI → Patch → select the xdelta file as *Patch*, your copy as *Source File*, and choose an output name.
+3. Click *Patch*. Check the output:
+   - Size: 682,056,480 bytes
+   - SHA-1: `e89ec04c3c2970b80246661a90a0d34eed78659e`
+4. Edit your `.cue` so the Track 1 `FILE` line points to the patched `.bin`. Keep the Track 2–4 lines as they are.
+5. Load the `.cue` in DuckStation (or another accurate emulator) and start a **NEW game**.
+
+> Old save states keep the old in-game text, so they do not update. Memory card saves from earlier builds still load and show the updated script. Start fresh when testing if you are unsure.
+
+## Terminology (tell us if you disagree!)
+Names follow the original franchises / Super Robot Wars where possible:
+Ingram Prisken, Viletta Vadim, Ryusei, Rai, Aya, Heero, Duo, Trowa, Quatre, Zechs, Domon, Raizo, Gaia Savers, Reflection Circuit, Tenjo Tenge Cannon, Dragon Fang Crash.
+"Giant of Light" is kept where the Japanese says it, rather than replaced with "Ultraman".
+
+## Help test / proofread
+Please use the report template (`BUG_REPORT_TEMPLATE.md`) and post screenshots.
+Useful reports: garbled/stray characters, freezes, text cut off or overflowing, wrong names, mistranslations, typos.
+
+## Credits
+Project lead, terminology and testing: the project maintainer. Translation, reverse engineering and tools: AI-assisted (Claude).
+Original game © Banpresto / Bandai Namco. This is an unofficial fan translation, not for sale.
